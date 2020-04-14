@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomePageTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.302">
+  <properties />
+  
+  
+            <testcase name="verifyThatSignUpLinkIsDisplayed" time="0.108" classname="com.learn.letskodeit.testsuite.HomePageTest" />
+                <testcase name="verifyThatPracticeLinkIsDisplayed" time="0.126" classname="com.learn.letskodeit.testsuite.HomePageTest" />
+                <testcase name="verifyThatLoginLinkIsDisplayed" time="0.068" classname="com.learn.letskodeit.testsuite.HomePageTest" />
+      
+</testsuite>

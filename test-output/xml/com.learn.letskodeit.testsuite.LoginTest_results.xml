@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.819">
+  <properties />
+  
+  
+            <testcase name="verifyThatLoginPageWelcomeTextisDisplayed" time="0.223" classname="com.learn.letskodeit.testsuite.LoginTest" />
+                <testcase name="verifyThatUserIsAbleToLogInSuccessfully" time="9.596" classname="com.learn.letskodeit.testsuite.LoginTest" />
+      
+</testsuite>
